@@ -2,7 +2,7 @@
   "name": "filestheme",
   "displayName": "FilesTheme",
   "description": "Meu tema personalizado para VS Code",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "publisher": "Files",
   "engines": {
     "vscode": "^1.50.0"
@@ -16,5 +16,5 @@
         "path": "./themes/light.json"
       }
     ]
-  }
+  } 
 }
